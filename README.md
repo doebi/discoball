@@ -10,6 +10,6 @@ A remote controllable disco ball at /dev/lol.
 
 ## MQTT-Topics
 
-devlol/h19/mainroom/discoball/led1 [ON, OFF]
-devlol/h19/mainroom/discoball/led2 [ON, OFF]
-devlol/h19/mainroom/discoball/motor [ON, OFF]
+* devlol/h19/mainroom/discoball/led1 [ON, OFF]
+* devlol/h19/mainroom/discoball/led2 [ON, OFF]
+* devlol/h19/mainroom/discoball/motor [ON, OFF]
